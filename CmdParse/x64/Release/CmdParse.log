@@ -1,0 +1,3 @@
+﻿  CmdParse.cpp
+  CmdParse.vcxproj -> E:\BitCracker\BitCrack\x64\Release\CmdParse.lib
+E:\BitCracker\BitCrack\CmdParse\CmdParse.h(27): warning C26495: Variable 'ArgType::hasArg' is uninitialized. Always initialize a member variable (type.6).

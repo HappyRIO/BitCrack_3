@@ -1,0 +1,2 @@
+E:\BitCracker\BitCrack\x64\Release\util.lib.lastcodeanalysissucceeded
+E:\BitCracker\BitCrack\util\x64\Release\NativeCodeAnalysis.read.1.tlog

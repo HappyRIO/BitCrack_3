@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>E:\BitCracker\BitCrack\KeyFinderLib\</FILEPATH>
+      <FILENAME>KeyFinder.cpp</FILENAME>
+      <LINE>21</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'KeyFinder::_totalTime' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>KeyFinder::{ctor}</FUNCTION>
+    <DECORATED>??0KeyFinder@@QEAA@AEBVuint256@secp256k1@@0HPEAVKeySearchDevice@@0@Z</DECORATED>
+    <FUNCLINE>21</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>KeyFinder::_totalTime</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>E:\BitCracker\BitCrack\KeyFinderLib\</FILEPATH>
+      <FILENAME>KeySearchTypes.h</FILENAME>
+      <LINE>37</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'KeySearchStatus::device' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>KeySearchStatus::{ctor}</FUNCTION>
+    <DECORATED>??0KeySearchStatus@@QEAA@XZ</DECORATED>
+    <FUNCLINE>37</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>KeySearchStatus::device</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>E:\BitCracker\BitCrack\KeyFinderLib\</FILEPATH>
+      <FILENAME>KeySearchDevice.h</FILENAME>
+      <LINE>34</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'KeySearchResult::compressed' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>KeySearchResult::{ctor}</FUNCTION>
+    <DECORATED>??0KeySearchResult@@QEAA@XZ</DECORATED>
+    <FUNCLINE>34</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>KeySearchResult::compressed</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>

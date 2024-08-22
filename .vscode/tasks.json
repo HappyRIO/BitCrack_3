@@ -1,0 +1,19 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build release",
+            "type": "shell",
+            "command": "g++",
+            "args": [
+                "-O3", // Optimization level for Release build
+                "${file}", // Input file
+                "-o", "${fileDirname}/${fileBasenameNoExtension}.out" // Output file
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}

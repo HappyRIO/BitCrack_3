@@ -1,0 +1,5 @@
+﻿  KeyFinder.cpp
+  KeyFinderLib.vcxproj -> E:\BitCracker\BitCrack\x64\Release\KeyFinderLib.lib
+E:\BitCracker\BitCrack\KeyFinderLib\KeyFinder.cpp(21): warning C26495: Variable 'KeyFinder::_totalTime' is uninitialized. Always initialize a member variable (type.6).
+E:\BitCracker\BitCrack\KeyFinderLib\KeySearchTypes.h(37): warning C26495: Variable 'KeySearchStatus::device' is uninitialized. Always initialize a member variable (type.6).
+E:\BitCracker\BitCrack\KeyFinderLib\KeySearchDevice.h(34): warning C26495: Variable 'KeySearchResult::compressed' is uninitialized. Always initialize a member variable (type.6).

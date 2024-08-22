@@ -1,0 +1,6 @@
+﻿  hash.cpp
+  ripemd160.cpp
+  Rng.cpp
+  sha256.cpp
+  Generating Code...
+  CryptoUtil.vcxproj -> E:\BitCracker\BitCrack\x64\Debug\CryptoUtil.lib
